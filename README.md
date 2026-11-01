@@ -127,3 +127,16 @@ Os dados e as planilhas devem passar por conferência de privacidade antes de se
 - [Revisões via API](https://www.mediawiki.org/wiki/API:Revisions)
 - [Contribuições de usuários](https://www.mediawiki.org/wiki/API:Usercontribs)
 - [Membros de categorias](https://www.mediawiki.org/wiki/API:Categorymembers)
+
+
+Autores
+
+Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso (TCC) intitulado "Medidas de Avaliação da Qualidade de Verbetes da Wikipédia: uma análise a partir de contribuições acadêmicas".
+
+Autores:
+
+- **Carrambert Albuquerque** — [@Carrambert](https://github.com/Carrambert)
+
+- **Gabriely Oliveira da Silva Batista** — [@GabrielyS](https://github.com/GabrielyS)
+
+O repositório reúne os códigos, as bases de dados e os resultados das análises desenvolvidas durante a pesquisa.
