@@ -41,12 +41,12 @@ Os nomes abaixo correspondem às versões utilizadas na pesquisa. Você pode ren
 
 | Nome no GitHub (`dados/brutos/`) | Origem / utilização |
 |---|---|
-| `Wikipedia Alunos (1).xlsx` | Cadastro acadêmico de estudantes, disciplinas e usuários |
-| `Tabela de Verbetes (1).xlsx` | Grupos, integrantes e verbetes das atividades |
+| `Wikipedia Alunos.xlsx` | Cadastro acadêmico de estudantes, disciplinas e usuários |
+| `Tabela de Verbetes.xlsx` | Grupos, integrantes e verbetes das atividades |
 | `Cruzamento_Wikipedia.xlsx` | Cruzamentos e identificação dos verbetes |
 | `df_tcc_base_consolidada_corrigida.xlsx` | **Base auditada**: ajustes manuais, mapa de grupos e decisões de correspondência. Necessária para reproduzir as 243 participações |
 | `resultado_tcc_contribuicoes_ampliado.xlsx` | **Recorte histórico** das 1.021 revisões e das 177 participações; usado no modo padrão do notebook 02 |
-| `resultado_tcc_antes_depois_ampliado.xlsx` | **Recorte histórico** dos 70 estados Antes/Depois e métricas complementares. Se o arquivo estiver como `resultado_tcc_antes_depois_ampliado(1).xlsx`, retire `(1)` do nome |
+| `resultado_tcc_antes_depois_ampliado.xlsx` | **Recorte histórico** dos 70 estados Antes/Depois e métricas complementares. |
 | `resultado_tcc_benchmark_artigos_top.xlsx` | **Benchmark histórico**: 100 artigos bons + 100 destacados |
 
 **Opcional:** `populacoes_benchmark_2026.xlsx`, com duas abas (`Bons`, `Destacados`) e colunas `pageid`, `title`, se você tiver guardado as **listas completas de candidatos** do momento do sorteio. Esse arquivo não consta entre as planilhas finais localizadas e **não foi criado artificialmente**.
