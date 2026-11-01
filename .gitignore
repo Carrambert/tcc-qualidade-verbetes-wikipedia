@@ -1,0 +1,22 @@
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Configurações locais
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
